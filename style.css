@@ -137,6 +137,11 @@ nav{
     background-color: #202c33;
     border-radius: 0px 15px 15px;
 }
+@media(max-width:576px){
+    .grey{
+        max-width: 100%;
+    }
+}
 
 .grey .mapview{
     margin: auto;
