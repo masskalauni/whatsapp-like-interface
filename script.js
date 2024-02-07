@@ -1,1 +1,192 @@
-function _0x566e(_0x26d348,_0x518ccd){var _0x1b4c40=_0x1b4c();return _0x566e=function(_0x566eb5,_0x5b7cc1){_0x566eb5=_0x566eb5-0x176;var _0x29032d=_0x1b4c40[_0x566eb5];return _0x29032d;},_0x566e(_0x26d348,_0x518ccd);}var _0x46f905=_0x566e;(function(_0x584571,_0x316621){var _0x5cee5d=_0x566e,_0x110206=_0x584571();while(!![]){try{var _0x41d500=-parseInt(_0x5cee5d(0x18e))/0x1*(parseInt(_0x5cee5d(0x19e))/0x2)+parseInt(_0x5cee5d(0x1a2))/0x3*(-parseInt(_0x5cee5d(0x194))/0x4)+-parseInt(_0x5cee5d(0x19d))/0x5*(-parseInt(_0x5cee5d(0x19a))/0x6)+parseInt(_0x5cee5d(0x1a1))/0x7+parseInt(_0x5cee5d(0x195))/0x8+-parseInt(_0x5cee5d(0x1ab))/0x9+-parseInt(_0x5cee5d(0x1aa))/0xa;if(_0x41d500===_0x316621)break;else _0x110206['push'](_0x110206['shift']());}catch(_0x4065a6){_0x110206['push'](_0x110206['shift']());}}}(_0x1b4c,0xd203c));function _0x1b4c(){var _0x1eb21c=['Hello\x20World\x20👋🏻,<br><br>\x20I\x20AM\x20\x20<span\x20class=\x27bold\x27><a\x20class=\x27alink\x27>Mass\x20Kalauni</a>.</span><br><br>I\x20am\x20a\x20CSIT\x20student\x20at\x20<span\x20class=\x27bold\x27>Tribhuwan\x20University\x20👨🏻‍💻📚</span><br><br>I\x27m\x20excited\x20to\x20learn\x20more\x20about\x20potential\x20career\x20prospects,and\x20would\x20love\x20to\x20hear\x20about\x20job\x20openings\x20in\x20the\x20field\x20of\x20engineering.<br><br>Send\x20<span\x20class=\x27bold\x27>\x27help\x27</span>\x20to\x20know\x20more\x20about\x20me.<br>','<div\x20class=\x27social\x27>\x20<a\x20target=\x27_blank\x27\x20href=\x27tel:+9779847508995\x27>\x20<div\x20class=\x27socialItem\x27\x20id=\x27call\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/phone.svg\x27/><label\x20class=\x27number\x27>9847508995</label></div>\x20</a>\x20<a\x20href=\x27mailto:masskalauni@gmail.com\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/gmail.svg\x27\x20alt=\x27\x27></div>\x20</a>\x20<a\x20target=\x27_blank\x27\x20href=\x27https://github.com/masskalauni\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/github.svg\x27\x20alt=\x27\x27></div>\x20</a>\x20<a\x20target=\x27_blank\x27\x20href=\x27https://wa.me/9868509934\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/whatsapp.svg\x27\x20alt=\x27\x27></div>\x20</a>\x20<a\x20target=\x27_blank\x27\x20href=\x27https://t.me/masskalauni\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/telegram.svg\x27\x20alt=\x27\x27></div>\x20</a>\x20<a\x20target=\x27_blank\x27\x20href=\x27https://www.instagram.com/crazymass83/\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/instagram.svg\x27\x20alt=\x27\x27>\x20</div>\x20</a>\x20<a\x20href=\x27https://www.linkedin.com/in/mass-kalauni-402a87238/\x27\x20target=\x27_blank\x27\x20rel=\x27noopener\x20noreferrer\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/linkedin.svg\x27\x20alt=\x27\x27></div>\x20</a>\x20</div>','listUL','setAttribute','scrollTop','keyCode','innerHTML','class','lastseen','chatting','<span\x20class=\x27sk\x27>Send\x20Keyword\x20to\x20get\x20what\x20you\x20want\x20to\x20know\x20about\x20me...<br>e.g<br><span\x20class=\x27bold\x27>\x27skills\x27</span>\x20-\x20to\x20know\x20my\x20skills<br><span\x20class=\x27bold\x27>\x27resume\x27</span>\x20-\x20to\x20get\x20my\x20resume<br><span\x20class=\x27bold\x27>\x27education\x27</span>\x20-\x20to\x20get\x20my\x20education\x20details<br><span\x20class=\x27bold\x27>\x27address\x27</span>\x20-\x20to\x20get\x20my\x20address<br><span\x20class=\x27bold\x27>\x27contact\x27</span>\x20-\x20to\x20get\x20ways\x20to\x20connect\x20with\x20me<br><span\x20class=\x27bold\x27>\x27projects\x27</span>\x20-\x20to\x20get\x20details\x20of\x20my\x20projects<br><span\x20class=\x27bold\x27>\x27clear\x27</span>\x20-\x20to\x20clear\x20conversation<br><span\x20class=\x27bold\x27>\x27about\x27</span>\x20-\x20to\x20know\x20about\x20this\x20site</span>','address','getHours','scrollHeight','flex','typing...','green','skills','2831FdXXZg','<div\x20class=\x27mapview\x27><iframe\x20src=\x27https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580413.471246413!2d76.2621461195194!3d28.79424386488948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a1aff9e71511e3%3A0xbbd9b609b2e41ff0!2sMass%20Home!5e0!3m2!1sen!2snp!4v1695719366916!5m2!1sen!2snp\x27\x20class=\x27map\x27></iframe></div><label\x20class=\x27add\x27><address>09\x20\x27Bedkot\x27<br>Municipiliaty<br>Lalpur,\x20Kanchanpur,\x20NEPAL\x2010400</address>','education','inputMSG','faltu','sent','273956sJkPLe','5208464NpaipB','I\x20am\x20currently\x20pusuing\x20BSC\x20CSIT\x20\x20from\x20Tribhuwan\x20University.<br><br>I\x20have\x20completed\x20my\x20Plus\x202\x20from\x20Kulau\x20Higher\x20Secondary<br>Passing\x20Year:2019<br>Result:70%<br><br>I\x20have\x20completed\x20my\x20Secondary\x20school\x20from\x20local\x20school\x20known\x20as\x20Someshwar\x20<br>Passing\x20Year:2016','<span\x20class=\x27sk\x27>I\x20am\x20currently\x20pursuing\x20BSC\x20CSIT\x20at\x207th\x20Semester.<br><br>I\x20can\x20comfortably\x20write\x20code\x20in\x20following\x20languages\x20:<br><span\x20class=\x27bold\x27>Java<br>C++<br>C<br>PHP<br>Javascript<br>C#</span><br><br>My\x20Favourite\x20IDE:VSCode</span>','You\x20want\x20to\x20check\x20my\x20projects?\x20Then\x20just\x20jump\x20into\x20my\x20Github\x20Account.<br><br><div\x20class=\x27social\x27><a\x20target=\x27_blank\x27\x20href=\x27https://github.com/masskalauni\x27>\x20<div\x20class=\x27socialItem\x27><img\x20class=\x27socialItemI\x27\x20src=\x27images/github.svg\x27\x20alt=\x27\x27></div>\x20</a></div>','Sorry\x20\x20I\x20couldn\x27t\x20catch\x20you...😢<br>Send\x20\x27help\x27\x20to\x20know\x20more\x20about\x20usage.','54KDjEER','getMinutes','about','124255mWtFCH','70AACwpy','getElementById','🛠️💻\x20This\x20portfolio\x20website\x20is\x20built\x20using\x20HTML,\x20CSS\x20and\x20JavaScript\x20from\x20SCRATCH!<br><br>👨🏻‍💻\x20Designed\x20and\x20Developed\x20by\x20<a\x20class=\x27alink\x27\x20target=\x27_blank\x27\x20href=\x27https://www.instagram.com/crazymass83/\x27><span\x20class=\x27bold\x27>Mass\x20Kalauni</a>\x20with\x20❤️</span>','10658550jRajZt','33vgpNoH','toLowerCase','new','assets/SentSound.m4a','trim','div','appendChild','value','1226370bDbxqL','5058414vowBgP','dateLabel','intro','grey','contact','createElement','play','sentlabel','display','received','style','label','none','innerText'];_0x1b4c=function(){return _0x1eb21c;};return _0x1b4c();}var audio=new Audio(_0x46f905(0x1a5)),contactString=_0x46f905(0x17d),resumeString='<img\x20src=\x27images/prem-cv-1.png\x27\x20class=\x27resumeThumbnail\x27><div\x20class=\x27downloadSpace\x27><div\x20class=\x27pdfname\x27><img\x20src=\x27images/pdf.png\x27><label>Mass-Kalauni-Resume.pdf</label></div><a\x20href=\x27assets/prem-cv.pdf\x27\x20download=\x27Mass_Kalauni_Resume.pdf\x27><img\x20class=\x27download\x27\x20src=\x27images/downloadIcon.svg\x27></a></div>',addressString=_0x46f905(0x18f);function startFunction(){var _0x320dde=_0x46f905;setLastSeen(),waitAndResponce(_0x320dde(0x1ad));}function setLastSeen(){var _0x28d7d8=_0x46f905,_0xb38645=new Date(),_0x2f565e=document['getElementById'](_0x28d7d8(0x184)),_0x1052fe=_0xb38645['getHours'](),_0x42cd27=_0xb38645[_0x28d7d8(0x19b)](),_0x9af5ee=_0x1052fe>=0xc?'PM':'AM';_0x1052fe>0xc&&(_0x1052fe-=0xc),_0x1052fe===0x0&&(_0x1052fe=0xc),_0x2f565e[_0x28d7d8(0x17b)]='Last\x20seen\x20today\x20at\x20'+_0x1052fe+':'+(_0x42cd27<0xa?'0':'')+_0x42cd27+'\x20'+_0x9af5ee;}setLastSeen();function closeFullDP(){var _0x3cbc84=_0x46f905,_0x2add37=document[_0x3cbc84(0x19f)]('fullScreenDP');_0x2add37['style'][_0x3cbc84(0x176)]===_0x3cbc84(0x18a)?_0x2add37[_0x3cbc84(0x178)][_0x3cbc84(0x176)]=_0x3cbc84(0x17a):_0x2add37[_0x3cbc84(0x178)][_0x3cbc84(0x176)]=_0x3cbc84(0x18a);}function openFullScreenDP(){var _0x28bcb8=_0x46f905,_0x4cf651=document[_0x28bcb8(0x19f)]('fullScreenDP');_0x4cf651[_0x28bcb8(0x178)][_0x28bcb8(0x176)]==='flex'?_0x4cf651[_0x28bcb8(0x178)][_0x28bcb8(0x176)]=_0x28bcb8(0x17a):_0x4cf651[_0x28bcb8(0x178)][_0x28bcb8(0x176)]='flex';}function isEnter(_0x1a5533){var _0x290255=_0x46f905;_0x1a5533[_0x290255(0x181)]==0xd&&sendMsg();}function sendMsg(){var _0x474dfd=_0x46f905,_0x5bf4f1=document['getElementById'](_0x474dfd(0x191)),_0x3b4249=_0x5bf4f1[_0x474dfd(0x1a9)];if(_0x5bf4f1[_0x474dfd(0x1a9)]=='')return;var _0xf434de=new Date(),_0x453e57=document[_0x474dfd(0x1b0)]('li'),_0x4b5538=document['createElement']('div'),_0x486c9f=document[_0x474dfd(0x1b0)](_0x474dfd(0x1a7)),_0x1cf64f=document['createElement'](_0x474dfd(0x179));_0x1cf64f[_0x474dfd(0x17b)]=_0xf434de[_0x474dfd(0x188)]()+':'+_0xf434de['getMinutes'](),_0x4b5538[_0x474dfd(0x17f)](_0x474dfd(0x183),_0x474dfd(0x193)),_0x486c9f[_0x474dfd(0x17f)](_0x474dfd(0x183),_0x474dfd(0x18c)),_0x1cf64f[_0x474dfd(0x17f)](_0x474dfd(0x183),_0x474dfd(0x1ac)),_0x486c9f['innerText']=_0x5bf4f1['value'],_0x4b5538[_0x474dfd(0x1a8)](_0x486c9f),_0x453e57[_0x474dfd(0x1a8)](_0x4b5538),_0x486c9f[_0x474dfd(0x1a8)](_0x1cf64f),document[_0x474dfd(0x19f)](_0x474dfd(0x17e))['appendChild'](_0x453e57);var _0x3b79b2=document[_0x474dfd(0x19f)](_0x474dfd(0x185));_0x3b79b2['scrollTop']=_0x3b79b2['scrollHeight'],setTimeout(function(){waitAndResponce(_0x3b4249);},0x5dc),_0x5bf4f1[_0x474dfd(0x1a9)]='',playSound();}function waitAndResponce(_0x15827d){var _0x382191=_0x46f905,_0x130d84=document['getElementById'](_0x382191(0x184));_0x130d84[_0x382191(0x17b)]=_0x382191(0x18b);switch(_0x15827d[_0x382191(0x1a3)]()[_0x382191(0x1a6)]()){case'intro':setTimeout(()=>{var _0x5f3fd2=_0x382191;sendTextMessage(_0x5f3fd2(0x17c));},0x7d0);break;case'help':sendTextMessage(_0x382191(0x186));break;case'resume':sendTextMessage(resumeString);break;case _0x382191(0x18d):sendTextMessage(_0x382191(0x197));break;case _0x382191(0x190):sendTextMessage(_0x382191(0x196));break;case _0x382191(0x187):sendTextMessage(addressString);break;case'clear':clearChat();break;case _0x382191(0x19c):sendTextMessage(_0x382191(0x1a0));break;case _0x382191(0x1af):sendTextMessage(contactString);break;case'projects':sendTextMessage(_0x382191(0x198));break;case _0x382191(0x1a4):sendTextMessage(_0x382191(0x192));break;default:setTimeout(()=>{var _0x2bf7c7=_0x382191;sendTextMessage(_0x2bf7c7(0x199));},0x7d0);break;}}function clearChat(){var _0x36d71a=_0x46f905;document[_0x36d71a(0x19f)](_0x36d71a(0x17e))[_0x36d71a(0x182)]='',waitAndResponce(_0x36d71a(0x1ad));}function sendTextMessage(_0x53bf33){var _0x100ea4=_0x46f905;setTimeout(setLastSeen,0x3e8);var _0x581ef1=new Date(),_0x31a685=document[_0x100ea4(0x1b0)]('li'),_0x38bd10=document[_0x100ea4(0x1b0)]('div'),_0x20b7f4=document[_0x100ea4(0x1b0)](_0x100ea4(0x1a7)),_0x526297=document[_0x100ea4(0x1b0)]('label');_0x526297['setAttribute']('id',_0x100ea4(0x1b2)),_0x526297['id']=_0x100ea4(0x1b2),_0x526297['innerText']=_0x581ef1[_0x100ea4(0x188)]()+':'+_0x581ef1[_0x100ea4(0x19b)](),_0x38bd10[_0x100ea4(0x17f)]('class','received'),_0x20b7f4[_0x100ea4(0x17f)]('class','grey'),_0x20b7f4[_0x100ea4(0x182)]=_0x53bf33,_0x38bd10[_0x100ea4(0x1a8)](_0x20b7f4),_0x31a685[_0x100ea4(0x1a8)](_0x38bd10),_0x20b7f4[_0x100ea4(0x1a8)](_0x526297),document[_0x100ea4(0x19f)](_0x100ea4(0x17e))[_0x100ea4(0x1a8)](_0x31a685);var _0x538025=document[_0x100ea4(0x19f)](_0x100ea4(0x185));_0x538025[_0x100ea4(0x180)]=_0x538025[_0x100ea4(0x189)],playSound();}function sendResponse(){var _0x539fcb=_0x46f905;setTimeout(setLastSeen,0x3e8);var _0x3f5ba8=new Date(),_0xac2e85=document[_0x539fcb(0x1b0)]('li'),_0x4ae20e=document[_0x539fcb(0x1b0)](_0x539fcb(0x1a7)),_0x1f309b=document[_0x539fcb(0x1b0)]('div'),_0x44d52e=document[_0x539fcb(0x1b0)]('label');_0x44d52e[_0x539fcb(0x17b)]=_0x3f5ba8['getHours']()+':'+_0x3f5ba8[_0x539fcb(0x19b)](),_0x4ae20e[_0x539fcb(0x17f)](_0x539fcb(0x183),_0x539fcb(0x177)),_0x1f309b['setAttribute'](_0x539fcb(0x183),_0x539fcb(0x1ae)),_0x44d52e[_0x539fcb(0x17f)]('class','dateLabel'),_0x1f309b[_0x539fcb(0x17b)]='',_0x4ae20e['appendChild'](_0x1f309b),_0xac2e85[_0x539fcb(0x1a8)](_0x4ae20e),_0x1f309b[_0x539fcb(0x1a8)](_0x44d52e),document[_0x539fcb(0x19f)](_0x539fcb(0x17e))[_0x539fcb(0x1a8)](_0xac2e85);var _0x4e748b=document[_0x539fcb(0x19f)]('chatting');_0x4e748b[_0x539fcb(0x180)]=_0x4e748b[_0x539fcb(0x189)],playSound();}function playSound(){var _0x94a41c=_0x46f905;audio[_0x94a41c(0x1b1)]();}
+var audio = new Audio('assets/SentSound.m4a');
+var contactString = "<div class='social'> <a target='_blank' href='tel:+9779847508995'> <div class='socialItem' id='call'><img class='socialItemI' src='images/phone.svg'/><label class='number'>9847508995</label></div> </a> <a href='mailto:masskalauni@gmail.com'> <div class='socialItem'><img class='socialItemI' src='images/gmail.svg' alt=''></div> </a> <a target='_blank' href='https://github.com/masskalauni'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a> <a target='_blank' href='https://wa.me/9868509934'> <div class='socialItem'><img class='socialItemI' src='images/whatsapp.svg' alt=''></div> </a> <a target='_blank' href='https://t.me/masskalauni'> <div class='socialItem'><img class='socialItemI' src='images/telegram.svg' alt=''></div> </a> <a target='_blank' href='https://www.instagram.com/crazymass83/'> <div class='socialItem'><img class='socialItemI' src='images/instagram.svg' alt=''> </div> </a> <a href='https://www.linkedin.com/in/mass-kalauni-402a87238/' target='_blank' rel='noopener noreferrer'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a> </div>";
+var resumeString = "<img src='images/prem-cv-1.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Mass-Kalauni-Resume.pdf</label></div><a href='assets/prem-cv.pdf' download='Mass_Kalauni_Resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
+var addressString = "<div class='mapview'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580413.471246413!2d76.2621461195194!3d28.79424386488948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a1aff9e71511e3%3A0xbbd9b609b2e41ff0!2sMass%20Home!5e0!3m2!1sen!2snp!4v1695719366916!5m2!1sen!2snp' class='map'></iframe></div><label class='add'><address>09 'Bedkot'<br>Municipiliaty<br>Lalpur, Kanchanpur, NEPAL 10400</address>";
+function startFunction() {
+    setLastSeen();
+    waitAndResponce("intro");
+}
+
+function setLastSeen() {
+    var date = new Date();
+    var lastSeen = document.getElementById("lastseen");
+    var hours = date.getHours();
+    var minutes = date.getMinutes();
+    var ampm = hours >= 12 ? 'PM' : 'AM';
+
+    // Convert hours from 24-hour format to 12-hour format
+    if (hours > 12) {
+        hours -= 12;
+    }
+
+    // Ensure that midnight (0:00) is displayed as 12:00 AM
+    if (hours === 0) {
+        hours = 12;
+    }
+
+    lastSeen.innerText = "Last seen today at " + hours + ":" + (minutes < 10 ? "0" : "") + minutes + " " + ampm;
+}
+
+// Call the function to update the last seen time
+setLastSeen();
+
+
+
+function closeFullDP() {
+    var x = document.getElementById("fullScreenDP");
+    if (x.style.display === 'flex') {
+        x.style.display = 'none';
+    } else {
+        x.style.display = 'flex';
+    }
+}
+
+function openFullScreenDP() {
+    var x = document.getElementById("fullScreenDP");
+    if (x.style.display === 'flex') {
+        x.style.display = 'none';
+    } else {
+        x.style.display = 'flex';
+    }
+}
+
+
+function isEnter(event) {
+    if (event.keyCode == 13) {
+        sendMsg();
+    }
+}
+
+function sendMsg() {
+    var input = document.getElementById("inputMSG");
+    var ti = input.value;
+    if (input.value == "") {
+        return;
+    }
+    var date = new Date();
+    var myLI = document.createElement("li");
+    var myDiv = document.createElement("div");
+    var greendiv = document.createElement("div");
+    var dateLabel = document.createElement("label");
+    dateLabel.innerText = date.getHours() + ":" + date.getMinutes();
+    myDiv.setAttribute("class", "sent");
+    greendiv.setAttribute("class", "green");
+    dateLabel.setAttribute("class", "dateLabel");
+    greendiv.innerText = input.value;
+    myDiv.appendChild(greendiv);
+    myLI.appendChild(myDiv);
+    greendiv.appendChild(dateLabel);
+    document.getElementById("listUL").appendChild(myLI);
+    var s = document.getElementById("chatting");
+    s.scrollTop = s.scrollHeight;
+    setTimeout(function () { waitAndResponce(ti) }, 1500);
+    input.value = "";
+    playSound();
+}
+
+function waitAndResponce(inputText) {
+    var lastSeen = document.getElementById("lastseen");
+    lastSeen.innerText = "typing...";
+    switch (inputText.toLowerCase().trim()) {
+        case "intro":
+            setTimeout(() => {
+                sendTextMessage("Hello World 👋🏻,<br><br> I AM  <span class='bold'><a class='alink'>Mass Kalauni</a>.</span><br><br>I am a CSIT student at <span class='bold'>Tribhuwan University 👨🏻‍💻📚</span><br><br>I'm excited to learn more about potential career prospects,and would love to hear about job openings in the field of engineering.<br><br>Send <span class='bold'>'help'</span> to know more about me.<br>");
+            }, 2000);
+            break;
+        case "help":
+            sendTextMessage("<span class='sk'>Send Keyword to get what you want to know about me...<br>e.g<br><span class='bold'>'skills'</span> - to know my skills<br><span class='bold'>'resume'</span> - to get my resume<br><span class='bold'>'education'</span> - to get my education details<br><span class='bold'>'address'</span> - to get my address<br><span class='bold'>'contact'</span> - to get ways to connect with me<br><span class='bold'>'projects'</span> - to get details of my projects<br><span class='bold'>'clear'</span> - to clear conversation<br><span class='bold'>'about'</span> - to know about this site</span>");
+            break;
+        case "resume":
+            sendTextMessage(resumeString);
+            break;
+        case "skills":
+            sendTextMessage("<span class='sk'>I am currently pursuing BSC CSIT at 7th Semester.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>C++<br>C<br>PHP<br>Javascript<br>C#</span><br><br>My Favourite IDE:VSCode</span>");
+            break;
+
+        case "education":
+            sendTextMessage("I am currently pusuing BSC CSIT  from Tribhuwan University.<br><br>I have completed my Plus 2 from Kulau Higher Secondary<br>Passing Year:2019<br>Result:70%<br><br>I have completed my Secondary school from local school known as Someshwar <br>Passing Year:2016");
+            break;
+
+        case "address":
+            sendTextMessage(addressString);
+            break;
+        case "clear":
+            clearChat();
+            break;
+        case "about":
+            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://www.instagram.com/crazymass83/'><span class='bold'>Mass Kalauni</a> with ❤️</span>");
+            break;
+        case "contact":
+            sendTextMessage(contactString);
+            break;
+        case "projects":
+            sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/masskalauni'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
+            break;
+        case "new":
+            sendTextMessage("faltu");
+            break;
+        default:
+            setTimeout(() => {
+                sendTextMessage("Sorry  I couldn't catch you...😢<br>Send 'help' to know more about usage.");
+            }, 2000);
+            break;
+    }
+
+
+
+}
+
+function clearChat() {
+    document.getElementById("listUL").innerHTML = "";
+    waitAndResponce('intro');
+}
+
+
+
+function sendTextMessage(textToSend) {
+    setTimeout(setLastSeen, 1000);
+    var date = new Date();
+    var myLI = document.createElement("li");
+    var myDiv = document.createElement("div");
+    var greendiv = document.createElement("div");
+    var dateLabel = document.createElement("label");
+    dateLabel.setAttribute("id", "sentlabel");
+    dateLabel.id = "sentlabel";
+    dateLabel.innerText = date.getHours() + ":" + date.getMinutes();
+    myDiv.setAttribute("class", "received");
+    greendiv.setAttribute("class", "grey");
+    greendiv.innerHTML = textToSend;
+    myDiv.appendChild(greendiv);
+    myLI.appendChild(myDiv);
+    greendiv.appendChild(dateLabel);
+    document.getElementById("listUL").appendChild(myLI);
+    var s = document.getElementById("chatting");
+    s.scrollTop = s.scrollHeight;
+    playSound();
+}
+
+
+function sendResponse() {
+    setTimeout(setLastSeen, 1000);
+    var date = new Date();
+    var myLI = document.createElement("li");
+    var myDiv = document.createElement("div");
+    var greendiv = document.createElement("div");
+    var dateLabel = document.createElement("label");
+    dateLabel.innerText = date.getHours() + ":" + date.getMinutes();
+    myDiv.setAttribute("class", "received");
+    greendiv.setAttribute("class", "grey");
+    dateLabel.setAttribute("class", "dateLabel");
+    greendiv.innerText = "";
+    myDiv.appendChild(greendiv);
+    myLI.appendChild(myDiv);
+    greendiv.appendChild(dateLabel);
+    document.getElementById("listUL").appendChild(myLI);
+    var s = document.getElementById("chatting");
+    s.scrollTop = s.scrollHeight;
+    playSound();
+}
+
+function playSound() {
+    audio.play();
+}
